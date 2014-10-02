@@ -17,6 +17,8 @@
 		<jdk.version>1.7</jdk.version>
 		<junit.version>4.9</junit.version>
 		
+		
+		<!-- move to profile -->
 		<skip.integration.tests>false</skip.integration.tests>
 		<skip.unit.tests>false</skip.unit.tests>
 		
