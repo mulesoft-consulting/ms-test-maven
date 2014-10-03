@@ -23,7 +23,8 @@
 		<skip.integration.tests>false</skip.integration.tests>
 		<skip.unit.tests>false</skip.unit.tests>
 
-		<muleApiUrl>http://localhost:8080/mmc/api</muleApiUrl>
+		<!-- <muleApiUrl>http://localhost:8080/mmc/api</muleApiUrl> -->
+		<muleApiUrl>http://172.16.30.172:8585/mmc-3.5.1/api</muleApiUrl>
 		<mule.mmc.serverGroup>ci</mule.mmc.serverGroup>
 	</properties>
 
